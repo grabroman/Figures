@@ -5,3 +5,4 @@ public class Trapezoid extends Figure{
         setName("Trapezoid");
     }
 }
+Object p=new Object();
